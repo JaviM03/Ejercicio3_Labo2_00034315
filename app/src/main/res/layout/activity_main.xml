@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
     <LinearLayout
-        
+        android:id="@+id/Ll2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
@@ -16,21 +16,24 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:background="@color/colorPrimary"
-            android:padding=""
+            android:layout_margin="10dp"
+            android:id="@+id/tv1"
             />
 
         <TextView
+            android:id="@+id/tv2"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
             android:background="@color/colorPrimaryDark"
-            />
+            android:layout_margin="10dp"/>
         <TextView
+            android:id="@+id/tv3"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
             android:background="@color/colorAccent"
-            />
+            android:layout_margin="10dp"/>
 
 
     </LinearLayout>

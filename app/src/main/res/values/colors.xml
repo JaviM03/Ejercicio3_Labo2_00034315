@@ -3,4 +3,26 @@
     <color name="colorPrimary">#ff0000</color>
     <color name="colorPrimaryDark">#00ff00</color>
     <color name="colorAccent">#0000ff</color>
+
+    <color name="R1">#E60000</color>
+    <color name="R2">#C80000</color>
+    <color name="R3">#B40000</color>
+    <color name="R4">#960000</color>
+    <color name="R5">#640000</color>
+    <color name="R6">#500000</color>
+
+    <color name="G1">#00E600</color>
+    <color name="G2">#00C800</color>
+    <color name="G3">#00B400</color>
+    <color name="G4">#009600</color>
+    <color name="G5">#006400</color>
+    <color name="G6">#005000</color>
+
+    <color name="B1">#0000E6</color>
+    <color name="B2">#0000C8</color>
+    <color name="B3">#0000B4</color>
+    <color name="B4">#000096</color>
+    <color name="B5">#000078</color>
+    <color name="B6">#000064</color>
+
 </resources>
